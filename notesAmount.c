@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdbool.h>
 
 int main(){
         int bdt, bdt1000, bdt500, bdt200, bdt100, bdt50, bdt20, bdt10, bdt5, bdt2, rest;
