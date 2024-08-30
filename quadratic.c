@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main(){
-        float a, b, c,determiner, root1, root2, imaginary;
+        float a, b, c, determiner, root1, root2, imaginary;
         printf("Enter the value of a: \n");
         scanf("%f", &a);
         printf("Enter the value of b: \n");
